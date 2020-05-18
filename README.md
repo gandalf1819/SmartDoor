@@ -1,5 +1,8 @@
 # SmartDoor
 
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) ![Python](https://upload.wikimedia.org/wikipedia/commons/3/34/Blue_Python_3.6_Shield_Badge.svg)
+[![Build Status](https://travis-ci.org/usgs/nwisweb-tableau-data-connector.svg?branch=master)](https://travis-ci.org/usgs/nwisweb-tableau-data-connector)
+
 SmartDoor is a distributed system that authenticates people and provides them with access to a virtual door using AWS services like Kinesis Video Streams, Amazon Rekognition and rest of the AWS stack.
 
 ## Architecture
